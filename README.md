@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a full stack web application for<br>project management.<br>🌱 I’m currently learning TypeScript and Machine learning.<br>
+Just Oussama Ben Hassen
 
 
 ## 🌐 Socials:
